@@ -1,0 +1,14 @@
+h1 {
+  font-size: 80px;
+  color: #00ff73;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+  font-size: larger;
+  color: #23f9d6;
+}
+
+div {
+  margin: 100px;
+}
