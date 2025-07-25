@@ -1,0 +1,10 @@
+ul {
+    padding: 16px;
+
+}
+
+li {
+    padding: 16px;
+    margin: 8px 30px;
+    display: inline-block;
+}
