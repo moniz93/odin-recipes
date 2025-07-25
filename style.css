@@ -8,3 +8,7 @@ li {
     margin: 8px 30px;
     display: inline-block;
 }
+
+h1 {
+    text-align: center;
+}
